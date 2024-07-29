@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   
+    <title>PDF'den JSON'a İçerik-Soru-Cevap Çıkartma Aracı</title>
 </head>
 <body>
 
@@ -40,8 +40,7 @@
 <h2>Kurulum</h2>
 <ol>
     <li>Depoyu klonlayın:
-        <pre><code>git clone https://github.com/ibkya/Automatic-Data-Gainer-System
-cd Automatic-Data-Gainer-System</code></pre>
+        <pre><code>git clone https://github.com/mihricankizilyer/vakifbank_staj/tree/main/Agentic%20Chunker%20Strategy</code></pre>
     </li>
     <li>Gerekli paketleri yükleyin:
         <pre><code>pip install -r requirements.txt</code></pre>
