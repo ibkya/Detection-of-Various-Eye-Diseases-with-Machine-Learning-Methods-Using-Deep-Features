@@ -240,10 +240,8 @@ print("Parçalar chunks.json dosyasına başarıyla kaydedildi")
 </code></pre>
 
 <h2>Katkıda Bulunma</h2>
-<p>Katkılar memnuniyetle karşılanır! Herhangi bir iyileştirme veya hata düzeltmesi için lütfen bir issue açın veya pull request gönderin.</p>
+<p>Herhangi bir iyileştirme veya hata düzeltmesi için lütfen bir issue açın veya pull request gönderin.</p>
 
-<h2>Lisans</h2>
-<p>Bu proje MIT Lisansı ile lisanslanmıştır. Detaylar için <code>LICENSE</code> dosyasına bakabilirsiniz.</p>
 
 </body>
 </html>
