@@ -42,9 +42,6 @@
     <li>Depoyu klonlayın:
         <pre><code>git clone https://github.com/mihricankizilyer/vakifbank_staj/tree/main/Agentic%20Chunker%20Strategy</code></pre>
     </li>
-    <li>Gerekli paketleri yükleyin:
-        <pre><code>pip install -r requirements.txt</code></pre>
-    </li>
     <li>OpenAI API anahtarınızı ayarlayın:
         <pre><code>echo "OPENAI_API_KEY=your-openai-api-key" > .env</code></pre>
     </li>
